@@ -1,0 +1,31 @@
+body {
+    background-color: red;
+}
+
+img {
+    width: 200px;
+    height: 350px;
+    background-color: aqua;
+}
+
+.image_container {
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chintu {
+    text-align: center;
+    color: blue;
+    background-color: pink;
+}
+
+#rahul {
+    color: black;
+    text-align: right;
+}
+
+.heading_div {
+    border: 2px solid black;
+}
